@@ -1,0 +1,7 @@
+metric,value_ha,percent
+2022 mapped-damage area,282.24733589469764,
+2023 mapped-damage area,285.5040305120341,
+Overlapping mapped-damage area,0.0,0.0
+2023 area outside 2022 damage,285.50403051203415,100.00000000000003
+2022 area outside 2023 damage,282.24733589469776,100.00000000000006
+Area Jaccard overlap,,0.0

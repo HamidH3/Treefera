@@ -1,0 +1,20 @@
+{
+  "source_label_file": "/Users/hemat/Desktop/hackathon-demo/hackathon_data/raw/F3_bark_beetle_locations.geojson",
+  "source_aoi_file": "/Users/hemat/Desktop/hackathon-demo/hackathon_data/clean/F3_bark_beetle_labels_in_aoi.geojson",
+  "raw_polygon_count": 14358,
+  "raw_label_years": [
+    2022,
+    2023
+  ],
+  "aoi_polygon_count": 3014,
+  "aoi_label_years": [
+    2022,
+    2023
+  ],
+  "has_pre_2022_ground_truth": false,
+  "has_2022_ground_truth": true,
+  "has_2023_ground_truth": true,
+  "has_2024_ground_truth": false,
+  "has_2025_ground_truth": false,
+  "conclusion": "The supplied polygon ground truth covers 2022 and 2023 only; no supplied polygon labels exist before 2022. No supplied polygon ground truth is available for 2024 or 2025."
+}
